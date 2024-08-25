@@ -1,7 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/jhan15/hand_gesture_detection)](https://github.com/jhan15/hand_gesture_detection/issues)
-![GitHub last commit](https://img.shields.io/github/last-commit/jhan15/hand_gesture_detection?color=ff69b4)
-
-# hand_gesture_detection
+# Yash1882 HandGesture Recognition System
 Hand gesture detection based on the hand module of Google's [mediapipe](https://github.com/google/mediapipe) API. The hand module gives the coordinates of 21 hand landmarks, which can be found in the image below.
 
 <p align="center">
@@ -14,11 +11,11 @@ This project focuses on three functionalities:
 3. Volume control using hand gestures.
 
 ## Requirements
-Python 3.8 or later with dependencies listed in [requirements.txt](https://github.com/jhan15/gesture_detection/blob/master/requirements.txt). To install run:
+Python 3.8 or later with dependencies listed in [requirements.txt]. To install run:
 
 ```bash
-$ git clone https://github.com/jhan15/hand_gesture_detection.git
-$ cd hand_gesture_detection
+$ git clone https://github.com/Yash1882/HandGesture-Recognition-System
+$ cd HandGesture Recognition System
 $ pip install -r requirements.txt
 ```
 
@@ -59,6 +56,3 @@ Control volume using hand gestures. It's a possible application in areas like sm
 
 ![step1](https://user-images.githubusercontent.com/62132206/127870295-00b94af1-3fbb-474b-b0f0-3e717d6d4882.gif)
 
-#### Issue
-
-The package I used to control Macbook's volume is [osascript](https://github.com/andrewp-as-is/osascript.py), it will reduce the FPS from ~30 to ~5.
