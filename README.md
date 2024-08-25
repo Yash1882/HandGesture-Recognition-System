@@ -11,7 +11,7 @@ This project focuses on three functionalities:
 3. Volume control using hand gestures.
 
 ## Requirements
-Python 3.8 or later with dependencies listed in [requirements.txt]. To install run:
+Python 3.8 or later with dependencies listed in **#requirements.txt**. To install run:
 
 ```bash
 $ git clone https://github.com/Yash1882/HandGesture-Recognition-System
